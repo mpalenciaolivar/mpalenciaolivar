@@ -13,7 +13,7 @@ My secondary missions :
 
 👀 I’m interested in everything around Statistics, Computer Science, and calligraphy.
 
-🌱 I’m currently learning a lot about writing professionally.
+🌱 I’m currently learning a lot about writing professionally by doing.
 
 <!---
 - 👀 I’m interested in ...
