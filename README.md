@@ -12,6 +12,7 @@ My secondary missions :
 - scientific watch around the needs (internal and external) of the company.
 
 👀 I’m interested in everything around Statistics, Computer Science, and calligraphy.
+
 🌱 I’m currently learning a lot about writing professionally.
 
 <!---
