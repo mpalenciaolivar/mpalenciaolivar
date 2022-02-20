@@ -1,4 +1,4 @@
-👋 Hi, I’m Miguel PALENCIA-OLIVAR. I'm a Data Scientist at Lizeo IT (France), where I work on large-scale topic modeling for social networks.
+👋 Hi, I’m Miguel PALENCIA-OLIVAR. I'm a Data Scientist at Lizeo IT (France), where I work on large-scale topic modeling for social media.
 
 What I mainly do:
 - management, promotion and implementation of a R&D project focused on customer insight extraction and customer satisfaction;
