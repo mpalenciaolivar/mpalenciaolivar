@@ -7,7 +7,7 @@ What I mainly do:
 - implementation, administration/maintenance and DevOps of a cluster of machines for the R&D department.
 
 My secondary missions :
-- internal consulting in Data Science and Applied Statistics for B2B Marketing;
+- consulting in Data Science and Applied Statistics for B2B Marketing;
 - coaching and mentoring of interns around R&D topics concerning enterprise data. Examples of projects: chatbots, named entity recognition (NER), sentiment analysis;
 - scientific watch around the needs (internal and external) of the company.
 
