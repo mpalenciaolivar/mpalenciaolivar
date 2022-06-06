@@ -16,7 +16,8 @@ My secondary missions :
 🌱 I’m currently learning a lot about writing professionally (by doing!).
 
 <center>
-    ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vf7s2mwe2tbhf5652xzzxjcrxe)
+    
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vf7s2mwe2tbhf5652xzzxjcrxe)
+![mpalenciaolivar's github stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar)
 
-    ![mpalenciaolivar's github stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar)
 </center>
