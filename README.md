@@ -15,13 +15,6 @@ My secondary missions :
 
 🌱 I’m currently learning a lot about writing professionally (by doing!).
 
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-sigmalyon/sigmalyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vf7s2mwe2tbhf5652xzzxjcrxe)
 
 ![mpalenciaolivar's github stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar)
