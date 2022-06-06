@@ -14,10 +14,6 @@ My secondary missions :
 👀 I’m interested in everything around Statistics, Computer Science, Cognitive Science, and calligraphy.
 
 🌱 I’m currently learning a lot about writing professionally (by doing!).
-
-<center>
-    
+ 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vf7s2mwe2tbhf5652xzzxjcrxe)
 <!-- ![mpalenciaolivar's github stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar) -->
-
-</center>
