@@ -11,7 +11,7 @@ My secondary missions :
 - coaching and mentoring of interns around R&D topics concerning enterprise data. Examples of projects: chatbots, named entity recognition (NER), sentiment analysis;
 - scientific watch around the needs (internal and external) of the company.
 
-👀 I’m interested in everything around Statistics, Computer Science, Cognitive Science, and calligraphy.
+👀 I’m interested in everything around Statistics, Computer Science, Decision-Making processes and Cognitive Science, and calligraphy.
 
 🌱 I’m currently learning a lot about writing professionally (by doing!).
  
