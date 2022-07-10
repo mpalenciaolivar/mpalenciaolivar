@@ -12,8 +12,3 @@ My secondary missions :
 - scientific watch around the needs (internal and external) of the company.
 
 👀 I’m interested in everything around Statistics, Computer Science, Decision-Making processes and Cognitive Science, and calligraphy.
-
-🌱 I’m currently learning a lot about writing professionally (by doing!).
- 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vf7s2mwe2tbhf5652xzzxjcrxe)
-<!-- ![mpalenciaolivar's github stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar) -->
