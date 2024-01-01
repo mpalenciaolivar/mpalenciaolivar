@@ -5,7 +5,7 @@
 
 I´m a computer scientist and statistician. I love to learn, research, and code. My passion is to design decision-making systems.
 
-I´ve had different roles in my career, such as Data Scientist, Software Engineer, and MLOps/DevOps. However, the most important thing I´ve learned in this time has been the value of:
+I´ve had different roles in my career, such as Data Scientist, Software Engineer, and MLOps/DevOps. However, the most important thing I've learned in this time has been the value of:
 
 * 🏅 Highly cooperative environments.
 * 🎯 Peer review.
