@@ -38,7 +38,7 @@ Parts of my past work on industrial, unsupervised topic extraction from text str
 
 <h2>✏️ Writings </h2>
 
-You can find me and check most of my writings <a href="https://bit.ly/m/mpalenciaolivar" target="">there</a>.
+You can find me and check most of my writings <a href="https://bit.ly/m/mpalenciaolivar" target="">on these websites</a>.
 
 <h2>📧 Reaching out</h2>
 
