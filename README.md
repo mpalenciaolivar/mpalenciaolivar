@@ -1,1 +1,1 @@
-![logo](https://github.com/mpalenciaolivar/mpalenciaolivar/assets/82161546/40a2e973-ef3e-4d83-97c8-164e153c9dc2)
+![logo](https://github.com/mpalenciaolivar/mpalenciaolivar/assets/82161546/3e524dab-fc4d-492d-8588-979ba00a827f)
