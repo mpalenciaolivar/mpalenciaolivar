@@ -3,7 +3,7 @@
 <h2>👋 Hi there, welcome! </h2>
 <p align="left">
 
-I'm a computer scientist and statistician. I love to learn, research, and code. My passion is to design decision-making systems.
+I'm a computer scientist and statistician. I love to learn, research, and code. My passion is to design robust, reliable, and resilient decision-making systems.
 
 I've had different roles in my career, such as Data Scientist, Software Engineer, and MLOps/DevOps. My main professional experiences lie in the financial and automotive industries, where my primary focus was statistical modeling, scoring, forecasting, and predictive analytics.
 
