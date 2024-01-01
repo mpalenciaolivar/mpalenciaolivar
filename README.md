@@ -36,6 +36,12 @@ Parts of my past work on industrial, unsupervised topic extraction from text str
 
 <br clear="right"/>
 
-<h2>📧 Reaching out </h2>
+<h2>✏️ Writings </h2>
 
-You can check most of my writings and find me <a href="https://bit.ly/m/mpalenciaolivar" target="">there</a>
+You can find me and check most of my writings <a href="https://bit.ly/m/mpalenciaolivar" target="">there</a>.
+
+<h2>📧 Reaching out</h2>
+
+You can contact me on <a href="https://twitter.com/mpalenciaolivar" target="">X (Twitter)</a>.
+
+For business inquiries, you can contact me on my <a href="https://www.cognitive-works.com" target="">professional website</a>.
