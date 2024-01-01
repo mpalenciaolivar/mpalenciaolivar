@@ -3,9 +3,9 @@
 <h2>👋 Hi there, welcome! </h2>
 <p align="left">
 
-I´m a computer scientist and statistician. I love to learn, research, and code. My passion is to design decision-making systems.
+I'm a computer scientist and statistician. I love to learn, research, and code. My passion is to design decision-making systems.
 
-I´ve had different roles in my career, such as Data Scientist, Software Engineer, and MLOps/DevOps. However, the most important thing I've learned in this time has been the value of:
+I've had different roles in my career, such as Data Scientist, Software Engineer, and MLOps/DevOps. However, the most important thing I've learned in this time has been the value of:
 
 * 🏅 Highly cooperative environments.
 * 🎯 Peer review.
@@ -24,7 +24,7 @@ In the last decade, I've tested multiple approaches to decision-making, from sta
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="500px"/> 
 
-* *Currently*, I´m working on:
+* *Currently*, I'm working on:
   * **Model-based unsupervised learning** ML approaches for similarity detection.  
   * **Time-series causality** Statistical and ML approaches for policy impact evaluation.
   * **Conformal prediction** Model-agnostic uncertainty quantification.
