@@ -38,9 +38,9 @@ Most of my contributions are located on my [company's GitHub repositories](https
 
 <br clear="right"/>
 
-<h2>✏️ Writings </h2>
+<h2>✏️ Where to find my writings </h2>
 
-You can find me and check most of my writings on my websites and profiles: <a href="https://linktr.ee/mpalenciaolivar" target="">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>.
+![](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
 
 <h2>📧 Reaching out</h2>
 
