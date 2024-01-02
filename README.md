@@ -40,7 +40,7 @@ Most of my contributions are located on my [company's GitHub repositories](https
 
 <h2>✏️ Where to find my writings </h2>
 
-![](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
+<a href="https://linktr.ee/mpalenciaolivar" target="">![](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
 
 <h2>📧 Reaching out</h2>
 
