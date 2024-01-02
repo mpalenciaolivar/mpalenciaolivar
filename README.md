@@ -20,14 +20,14 @@ The most important things I've learned so far have been the value of:
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 In the last decade, I've tested multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models; here is a sample.
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="500px"/> 
 
 * *Currently*, I'm working on:
-  * **Model-based unsupervised learning** ML approaches for similarity detection.  
+  * **Model-based learning** ML approaches for similarity detection and policy impact evaluation.
   * **Time-series causality** Statistical and ML approaches for policy impact evaluation.
   * **Conformal prediction** Model-agnostic uncertainty quantification.
   * **Hyperbox-based ML** Highly scalable algorithms with online adaptation capabilities to dynamically changing environments and streaming data.
@@ -40,7 +40,7 @@ Most of my contributions are located on my [company's GitHub repositories](https
 
 <h2>✏️ Writings </h2>
 
-You can find me and check most of my writings <a href="https://bit.ly/m/mpalenciaolivar" target="">on these websites</a>.
+You can find me and check most of my writings on my websites and profiles: <a href="https://linktr.ee/mpalenciaolivar" target="">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>.
 
 <h2>📧 Reaching out</h2>
 
