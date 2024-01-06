@@ -5,7 +5,7 @@
 
 I'm a computer scientist and statistician. I love to learn, research, and code. My passion is to design robust, reliable, and resilient decision-making systems. I believe design is key to systems building and takes a thoughtful combination of epistemology, methodology, and technology. I draw my inspiration from both computational and social sciences. 
 
-I've had different roles in my career, such as Data Scientist, Software Engineer, and MLOps/DevOps. My main professional experiences lie in the financial and automotive industries, where my primary focus was statistical modeling, scoring, forecasting, and predictive analytics. I <a href="https://www.cognitive-works.com" target="">provide consulting and training services</a> to companies and not-for-profit institutions alike since Feb. 2023.
+I've had different roles in my career, such as Data Scientist, Software Engineer, and MLOps/DevOps. My main professional experiences lie in the financial and automotive industries, where my primary focus was statistical modeling, scoring, forecasting, and predictive analytics. I <a href="https://www.cognitive-works.com" target="">provide consulting and training services</a> to companies and not-for-profit institutions alike since Feb. 2019.
 
 The most important things I've learned so far have been the value of:
 
