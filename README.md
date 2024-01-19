@@ -28,13 +28,16 @@ In the last decade, I've tested multiple decision-making and knowledge extractio
 
 * *Currently*, I'm working on:
   * **Conformal prediction** Model-agnostic uncertainty quantification.
-  * **Hyperbox-based ML** Highly scalable algorithms with online adaptation capabilities to dynamically changing environments and streaming data.
   * **Model-based learning** ML approaches for similarity detection and policy impact evaluation.
   * **Time-series causality** Statistical and ML approaches for policy impact evaluation.
+  * **Variational Inference** Highly scalable optimization algorithms.
 
 Parts of my past work on industrial, unsupervised topic extraction from text streams have been published in industrial conferences. I have created three neural-based topic models and applied them to noisy data from industrial data scraping feeds. I have also developed a (proprietary) Python framework to simplify the use and extension of existing models (mine included), thus bridging the gap between model development and Agile software development. [The business case, theoretical foundations, paper references, and framework blueprint are available in my dissertation](https://arxiv.org/abs/2307.11775).
 
 Most of my contributions are located on my [company's GitHub repositories](https://github.com/orgs/cognitive-works-consulting/repositories), and my main public projects are pinned on my profile.
+
+* *Former* research interests:
+  * **Hyperbox-based ML** Highly scalable algorithms with online adaptation capabilities to dynamically changing environments and streaming data.
 
 <br clear="right"/>
 
