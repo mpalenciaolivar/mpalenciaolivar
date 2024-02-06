@@ -22,6 +22,8 @@ The most important things I've learned so far have been the value of:
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+💡 Most of my contributions are located on my [company's GitHub repositories](https://github.com/orgs/cognitive-works-consulting/repositories), and my main public projects are pinned on my profile.
+
 In the last decade, I've tested multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models; here is a sample.
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="500px"/> 
@@ -33,8 +35,6 @@ In the last decade, I've tested multiple decision-making and knowledge extractio
   * **Time-series causality** ML approaches for policy impact evaluation.
 
 Parts of my past work on industrial, unsupervised topic extraction from text streams have been published in industrial conferences. I have created three neural-based topic models and applied them to noisy data from industrial data scraping feeds. I have also developed a (proprietary) Python framework to simplify the use and extension of existing models (mine included), thus bridging the gap between model development and Agile software development. [The business case, theoretical foundations, paper references, and framework blueprint are available in my dissertation](https://arxiv.org/abs/2307.11775).
-
-Most of my contributions are located on my [company's GitHub repositories](https://github.com/orgs/cognitive-works-consulting/repositories), and my main public projects are pinned on my profile.
 
 * *Former* research interests:
   * **Hyperbox-based ML** Highly scalable algorithms with online adaptation capabilities to dynamically changing environments and streaming data.
