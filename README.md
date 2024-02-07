@@ -30,8 +30,7 @@ In the last decade, I've tested multiple decision-making and knowledge extractio
 
 * *Currently*, I'm working on:
   * **Conformal prediction** Model-agnostic uncertainty quantification.
-  * **Model-based learning** ML approaches for similarity detection and policy impact evaluation.
-  * **Time-series (bi)clustering** ML approaches for time series clustering.
+  * **Clustering** ML approaches for unsupervised data grouping.
   * **Time-series causality** ML approaches for policy impact evaluation.
 
 Parts of my past work on industrial, unsupervised topic extraction from text streams have been published in industrial conferences. I have created three neural-based topic models and applied them to noisy data from industrial data scraping feeds. I have also developed a (proprietary) Python framework to simplify the use and extension of existing models (mine included), thus bridging the gap between model development and Agile software development. [The business case, theoretical foundations, paper references, and framework blueprint are available in my dissertation](https://arxiv.org/abs/2307.11775).
