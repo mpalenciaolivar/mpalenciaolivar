@@ -29,9 +29,9 @@ In the last decade, I've tested multiple decision-making and knowledge extractio
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="500px"/> 
 
 * *Currently*, I'm working on:
-  * **Model calibration** Model uncertainty quantification.
   * **Clustering** ML approaches for unsupervised data grouping.
   * **Time-series causality** ML approaches for policy impact evaluation.
+  * **Uncertainty quantification** Identifying a model's shortcomings.
 
 Parts of my past work on industrial, unsupervised topic extraction from text streams have been published in industrial conferences. I have created three neural-based topic models and applied them to noisy data from industrial data scraping feeds. I have also developed a (proprietary) Python framework to simplify the use and extension of existing models (mine included), thus bridging the gap between model development and Agile software development. [The business case, theoretical foundations, paper references, and framework blueprint are available in my dissertation](https://arxiv.org/abs/2307.11775).
 
