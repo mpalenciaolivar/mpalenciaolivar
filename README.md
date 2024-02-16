@@ -51,4 +51,4 @@ You can contact me on <a href="https://twitter.com/mpalenciaolivar" target="">X 
 
 For business inquiries, you can contact me on my <a href="https://www.cognitive-works.com" target="">professional website</a>.
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar)](https://github.com/mpalenciaolivar/github-readme-stats)
+<!-- [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar)](https://github.com/mpalenciaolivar/github-readme-stats)
