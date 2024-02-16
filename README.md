@@ -29,7 +29,7 @@ In the last decade, I've tested multiple decision-making and knowledge extractio
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="500px"/> 
 
 * *Currently*, I'm working on:
-  * **Clustering** ML approaches for unsupervised data grouping.
+  * **Clustering** ML approaches for unsupervised data grouping. I am particularly interested in model-based approaches and time series.
   * **Time-series causality** ML approaches for policy impact evaluation.
   * **Uncertainty quantification** Identifying a model's shortcomings.
 
