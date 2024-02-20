@@ -3,7 +3,7 @@
 
 I'm a computer scientist and statistician. I have been designing and building decision-making systems for years. I have helped leading companies and not-for-profit institutions with smart algorithms that align with business goals. I have settled on a journey to help companies, and not-for-profit institutions have a 360° vision of their business every day of the year. I design and apply statistical and computational methods to business challenges and share my knowledge and experience.
 
-* What I do:
+What I do:
   * Consultancies: I tailor solutions to take on business challenges and deliver a step-by-step plan to help companies thrive.
   * Coaching: I help people start with computational science and follow them on their path to mastery.
   * Training sessions: coming soon!
@@ -17,7 +17,9 @@ I'm a computer scientist and statistician. I have been designing and building de
 
 💡 Most of my contributions are located on my [company's GitHub repositories](https://github.com/orgs/cognitive-works-consulting/repositories), and my main public projects are pinned on my profile.
 
-* I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models; here is a sample:
+I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models.
+
+Here is a sample:
   * **Clustering** ML approaches for unsupervised data grouping. I am particularly interested in model-based approaches and time series.
   * **Time-series causality** ML approaches for policy impact evaluation.
   * **Uncertainty quantification** Identifying a model's shortcomings.
