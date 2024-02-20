@@ -8,8 +8,6 @@ I'm a computer scientist and statistician. I have been designing and building de
   * Coaching: I help people start with computational science and follow them on their path to mastery.
   * Training sessions: coming soon!
 
-For business inquiries, you can contact me on my <a href="https://www.cognitive-works.com" target="">professional website</a>.
-
 <h2>👨‍💻 Projects </h2>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,8 +21,6 @@ For business inquiries, you can contact me on my <a href="https://www.cognitive-
   * **Clustering** ML approaches for unsupervised data grouping. I am particularly interested in model-based approaches and time series.
   * **Time-series causality** ML approaches for policy impact evaluation.
   * **Uncertainty quantification** Identifying a model's shortcomings.
-
-<br clear="right"/>
 
 <h2>✏️ Where to find my writings </h2>
 
