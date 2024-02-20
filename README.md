@@ -3,17 +3,12 @@
 <h2>👋 Hi there, welcome! </h2>
 <p align="left">
 
-I'm a computer scientist and statistician. I love to learn, research, and code. My passion is to design robust, reliable, and resilient decision-making systems. I believe design is key to systems building and takes a thoughtful combination of epistemology, methodology, and technology. I draw my inspiration from both computational and social sciences. 
+I'm a computer scientist and statistician. I have been designing and building decision-making systems for years. I have helped leading companies and not-for-profit institutions with smart algorithms that align with business goals. I have settled on a journey to help companies, and not-for-profit institutions have a 360° vision of their business every day of the year. I design and apply statistical and computational methods to business challenges and share my knowledge and experience.
 
-I've had different roles in my career, such as Data Scientist, Software Engineer, and MLOps/DevOps. My main professional experiences lie in the financial and automotive industries, where my primary focus was statistical modeling, scoring, forecasting, and predictive analytics. I have been <a href="https://www.cognitive-works.com" target="">providing consulting and training services</a> to companies and not-for-profit institutions alike since Feb. 2018.
-
-The most important things I've learned so far have been the value of:
-
-* 🏅 Highly cooperative environments.
-* 🎯 Peer review.
-* 💪🏻 Co-specialization.
-* 🧪 Empirical falsification.
-* 🧑‍🏫 Teaching and sharing knowledge.
+* What I do
+- Consultancies: I tailor solutions to take on business challenges and deliver a step-by-step plan to help companies thrive.
+- Coaching: I help people start with computational science and follow them on their path to mastery.
+- Training sessions: coming soon!
 
 <h2>👨‍💻 Projects </h2>
 
