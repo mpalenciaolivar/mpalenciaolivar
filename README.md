@@ -17,7 +17,7 @@ I'm a computer scientist and statistician. I have been designing and building de
 
 💡 Most of my contributions are located on my [company's GitHub repositories](https://github.com/orgs/cognitive-works-consulting/repositories), and my main public projects are pinned on my profile.
 
-* I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models; here is a sample.
+* I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models; here is a sample:
   * **Clustering** ML approaches for unsupervised data grouping. I am particularly interested in model-based approaches and time series.
   * **Time-series causality** ML approaches for policy impact evaluation.
   * **Uncertainty quantification** Identifying a model's shortcomings.
