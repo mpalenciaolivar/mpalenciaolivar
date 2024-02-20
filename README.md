@@ -28,6 +28,6 @@ I'm a computer scientist and statistician. I have been designing and building de
 
 <h2>📧 Reaching out</h2>
 
-You can contact me on <a href="https://twitter.com/mpalenciaolivar" target="">X (Twitter)</a>.
+You can contact me on <a href="https://www.linkedin.com/in/mpalenciaolivar/">LinkedIn</a> or <a href="https://twitter.com/mpalenciaolivar" target="">X (Twitter)</a>.
 
 <!-- [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar)](https://github.com/mpalenciaolivar/github-readme-stats)
