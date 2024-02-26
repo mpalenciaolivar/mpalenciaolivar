@@ -8,6 +8,8 @@ What I do:
   * Coaching: I help people start with computational science and follow them on their path to mastery.
   * Training sessions: coming soon!
 
+You can find more about my services on my [company's website](https://www.cognitive-works.com).
+
 <h2>👨‍💻 Projects </h2>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,7 +17,7 @@ What I do:
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-💡 Most of my contributions are located on my [company's GitHub repositories](https://github.com/orgs/cognitive-works-consulting/repositories).
+💡 Most of my contributions are located on my [company's GitHub page](https://github.com/orgs/cognitive-works-consulting/repositories).
 
 I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models.
 
