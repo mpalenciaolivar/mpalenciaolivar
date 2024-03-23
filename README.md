@@ -21,7 +21,7 @@ You can find more about my services on my [company's website](https://www.cognit
 
 💡 Most of my contributions are on my [company's GitHub page](https://github.com/orgs/cognitive-works-consulting/repositories).
 
-I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models.
+I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models. I am also into Operations Research and Multi-Agent Systems.
 
 For now:
  - 🔭 I’m working on [Sklex](https://github.com/cognitive-works-consulting/Sklex), a Scikit-Learn extension that provides new models and preprocessing techniques.
