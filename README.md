@@ -23,11 +23,6 @@ You can find more about my services on my [company's website](https://www.cognit
 
 I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models. I am also into Operations Research and Multi-Agent Systems.
 
-For now:
- - 🔭 I’m working on [Sklex](https://github.com/cognitive-works-consulting/Sklex), a Scikit-Learn extension that provides new models and preprocessing techniques.
- - 🌱 I’m learning [Taipy](https://www.taipy.io/), a data applications-oriented framework for Python.
- - 👯 I’m looking to collaborate on [Awesome Decision Science](https://github.com/cognitive-works-consulting/Awesome-Decision-Science), a professionally curated repository on everything Decision Science.
-
 Since completing my Ph.D., I am also a member of the [ERIC Lab](https://eric.msh-lse.fr/) at the University of Lyon, where I occasionally teach and research. My research interests include:
   * **Clustering** ML approaches for unsupervised data grouping. I am particularly interested in model-based approaches and spectral clustering.
   * **Uncertainty quantification** Identifying a model's shortcomings.
