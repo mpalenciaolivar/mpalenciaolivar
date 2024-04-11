@@ -3,7 +3,7 @@
 
 💬 For years, I have designed and built decision-making systems. I have helped leading companies with intelligent algorithms that align with business goals and compliance standards. I design and apply statistical and computational methods to business challenges and share my knowledge and experience. Ask me about anything **ML, Statistics, Operations Research, and Scientific Computing**.
 
-📝 I regularly write articles on [https://www.cognitive-works.com/blog](https://www.cognitive-works.com/blog)
+<!--📝 I regularly write articles on [https://www.cognitive-works.com/blog](https://www.cognitive-works.com/blog) -->
 
 <h2> 🏢 Services I provide </h2>
 
