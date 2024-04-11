@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel!</h1>
-<h3 align="center">I am Data Scientist specialized in Financial Services</h3>
+<h3 align="center">Data Science, Scientific Computing, and Software Engineering</h3>
 
-💬 For years, I have designed and built decision-making systems in the financial industry. I have helped leading companies with intelligent algorithms that align with business goals and compliance standards. I design and apply statistical and computational methods to business challenges and share my knowledge and experience. Ask me about anything **ML, Statistics, Operations Research, and Scientific Computing**.
+💬 For years, I have designed and built decision-making systems. I have helped leading companies with intelligent algorithms that align with business goals and compliance standards. I design and apply statistical and computational methods to business challenges and share my knowledge and experience. Ask me about anything **ML, Statistics, Operations Research, and Scientific Computing**.
 
 📝 I regularly write articles on [https://www.cognitive-works.com/blog](https://www.cognitive-works.com/blog)
 
