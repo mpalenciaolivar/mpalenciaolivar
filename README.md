@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel!</h1>
-<h3 align="center">Data Science, Scientific Computing, and Software Engineering</h3>
+<h3 align="center">Quantitative services, IT, and project management</h3>
 
-💬 For years, I have designed and built decision-making systems. I have helped leading companies with intelligent algorithms that align with business goals and compliance standards. I design and apply statistical and computational methods to business challenges and share my knowledge and experience. Ask me about anything **ML, Statistics, Scientific Computing, and Software Engineering**.
-
-<!--📝 I regularly write articles on [https://www.cognitive-works.com/blog](https://www.cognitive-works.com/blog) -->
-
-<h2> 🏢 Services I provide </h2>
-
-  * Consultancies: I tailor solutions to take on business challenges and deliver a step-by-step plan to help companies thrive.
-  * Coaching: I help people start with computational science and follow them on their path to mastery.
-  * Training sessions: coming soon!
-
-You can find more about my services on my [company's website](https://www.cognitive-works.com).
+💬 For years, I have designed and built decision-making systems. I have helped leading companies with intelligent algorithms that align with business goals and compliance standards. I design and apply statistical and computational methods to business challenges and share my knowledge and experience.
 
 <h2>👨‍💻 Projects </h2>
 
