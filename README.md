@@ -3,9 +3,9 @@
 
 Vous voudriez **optimiser l'impact de vos recommandations** en vous appuyant sur des éléments tangibles et des projections fiables, tout en **minimisant les risques** pour vos clients ou votre employeur. Mais les données hétérogènes et complexes, le manque d'expertise technique et la **difficulté à prendre en compte l'incertitude et les biais vous freinent**.<br/>
 
-Pour ne rien faciliter, la technique pure **ne vous guide pas vers des hypothèses pertinentes**, les indicateurs statistiques n'ont **pas toujours de valeur business**, et les prédictions des **outils *on the shelf* sont vaguement fiables**.<br/>
+Pour ne rien faciliter, la technique pure **ne vous guide pas vers des hypothèses pertinentes**, les indicateurs statistiques n'ont **pas toujours de valeur business**, et les prédictions des **outils *on the shelf* sont vaguement fiables**.
       
-<h4>Bonne nouvelle: ensemble nous pouvons dès aujourd’hui mettre l'intelligence des chiffres et de l'humain au service de votre business !</h4><br/>
+<h4>Bonne nouvelle: ensemble nous pouvons dès aujourd’hui mettre l'intelligence des chiffres et de l'humain au service de votre business !</h4>
 
 Je suis Data & AI Scientist depuis 8 ans. Mon parcours m'a permis de développer des compétences techniques pointues en *Data Science et IA, en Sciences Cognitives et en Droit* qui me permettent d'**extraire des insights uniques, fiabilisés et robustifiés en tenant compte de vos enjeux de gouvernance**.
 
