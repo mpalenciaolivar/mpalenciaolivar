@@ -5,12 +5,6 @@
 
 <h2>👨‍💻 Projects </h2>
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-💡 Most of my contributions are on my [company's GitHub page](https://github.com/orgs/cognitive-works-consulting/repositories).
-
 I've worked on and with multiple decision-making and knowledge extraction approaches, from statistical modeling and machine learning to fuzzy logic-based models. I am also into Operations Research and Multi-Agent Systems.
 
 Since completing my Ph.D., I am also a member of the [ERIC Lab](https://eric.msh-lse.fr/) at the University of Lyon, where I occasionally teach and research. My research interests include:
@@ -19,6 +13,6 @@ Since completing my Ph.D., I am also a member of the [ERIC Lab](https://eric.msh
 
 <h2>📧 Reaching out</h2>
 
-You can contact me on <a href="https://www.linkedin.com/in/mpalenciaolivar/">LinkedIn</a> or <a href="https://twitter.com/mpalenciaolivar" target="">X (Twitter)</a>.
+You can contact me on <a href="https://www.linkedin.com/in/mpalenciaolivar/">LinkedIn</a>.
 
 <!-- [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpalenciaolivar)](https://github.com/mpalenciaolivar/github-readme-stats)
