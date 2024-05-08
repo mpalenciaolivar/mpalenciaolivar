@@ -55,11 +55,11 @@
   </tbody>
 </table>
 
-
 ### ✏️ Mes posts
-- [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/recent-activity/all/)
 
-- Blog
+#### [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/recent-activity/all/)
+
+#### Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Coming soon!](https://mpalenciaolivar.github.io/blog/coming-soon/)
