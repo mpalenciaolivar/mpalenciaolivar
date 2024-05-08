@@ -64,7 +64,7 @@
 - [Coming soon!](https://mpalenciaolivar.github.io/blog/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Langages et outils</h3>
+<h3 align="left"> ⌨️ Langages et outils</h3>
 
 <h4 align="left">Data Science & AI</h4>
 
