@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, moi c'est Miguel !</h1>
+
 <h3 align="center">Je transforme la prise de décision en science exacte en mettant l’intelligence des chiffres et de l’humain au service de votre business. #Conseil #Banque #Assurance</h3>
 <!--<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right"/> -->
 
@@ -15,11 +16,13 @@
     - [Site](https://mpalenciaolivar.github.io)
 
 <h3 align="left">Mes réseaux sociaux :</h3>
+
 <p align="left">
 <a href="[https://www.linkedin.com/in/mpalenciaolivar/](https://www.linkedin.com/in/mpalenciaolivar/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-palencia-olivar" height="30" width="40" /></a>
 </p>
 
 ### Mes projets
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -57,19 +60,18 @@
 
 ### ✏️ Mes posts
 
-#### [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/recent-activity/all/)
-
-#### Blog
-
 <!-- BLOG-POST-LIST:START -->
 - [Coming soon!](https://mpalenciaolivar.github.io/blog/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Langages et outils</h3>
+
 <h4 align="left">Data Science & AI</h4>
+
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <h4 align="left">DBs</h4>
+
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <h4 align="left">Systems and DevOps</h4>
