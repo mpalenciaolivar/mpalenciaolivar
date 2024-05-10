@@ -61,6 +61,7 @@
 ### ✏️ Mes posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coming soon!](https://mpalenciaolivar.github.io/blog/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left"> ⌨️ Langages et outils</h3>
