@@ -13,7 +13,7 @@
 
 - 📄 Mon CV :
     - [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/)
-    <!-- - [Site](https://mpalenciaolivar.com) -->
+    - [Site](https://mpalenciaolivar.com)
 
 <h3 align="left">Mes réseaux sociaux :</h3>
 
