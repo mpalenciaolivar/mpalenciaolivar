@@ -9,7 +9,9 @@
 
 - 💬 Posez-moi des questions sur **la Data Science & AI, les Sciences Cognitives et le Droit**
 
-- 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/)
+- ☎️ Me contacter :
+    - [Prendre rendez-vous](https://meet.brevo.com/mpalenciaolivar)
+    - [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/)
 
 - 📄 Mon CV :
     - [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/)
