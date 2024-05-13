@@ -43,6 +43,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mpalenciaolivar/Awesome-Decision-Science?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mpalenciaolivar/Awesome-Decision-Science?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <!--
     <tr>
       <td><a href="https://github.com/mpalenciaolivar/Sklex"><b>Sklex: SciKit-Learn EXtended</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mpalenciaolivar/sklex?style=flat-square&labelColor=343b41"/></td>
@@ -50,6 +51,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mpalenciaolivar/sklex?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mpalenciaolivar/sklex?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    -->
     <tr>
       <td><a href="https://arxiv.org/abs/2307.11775"><b>Thèse en ML : A Topical Approach to Capturing Customer Insight in Social Media</b></a></td>
       <td>Non applicable</td>
