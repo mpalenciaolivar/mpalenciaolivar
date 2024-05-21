@@ -37,7 +37,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mpalenciaolivar/Awesome-Decision-Science"><b>Awesome Decision Science: an evergrowing, professionally curated list of resources on everything decision-making</b></a></td>
+      <td><a href="https://github.com/mpalenciaolivar/Awesome-Decision-Science"><b>Awesome Decision Science: une liste de ressources sur tout ce qui touche à la prise de décision : vidéos, tutoriels, livres, documents, thèses, articles, datasets et libs open source</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mpalenciaolivar/Awesome-Decision-Science?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mpalenciaolivar/Awesome-Decision-Science?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mpalenciaolivar/Awesome-Decision-Science?style=flat-square&labelColor=343b41"/></td>
