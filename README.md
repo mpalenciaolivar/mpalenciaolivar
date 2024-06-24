@@ -7,13 +7,10 @@
 
 - 👯 J'aimerais collaborer avec vous sur des projets **Data & IA**
 
-- 💬 Posez-moi des questions sur **la Data Science & AI, les Sciences Cognitives et le Droit**
+- 💬 Posez-moi des questions sur **la Data Science & l'AI**
 
 - ☎️ Me contacter :
     - [Prendre rendez-vous](https://meet.brevo.com/mpalenciaolivar)
-    - [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/)
-
-- 📄 Mon CV :
     - [LinkedIn](https://www.linkedin.com/in/mpalenciaolivar/)
     - [Site](https://mpalenciaolivar.com)
 
