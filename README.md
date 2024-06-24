@@ -59,12 +59,6 @@
   </tbody>
 </table>
 
-### ✏️ Mes posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coming soon!](https://www.mpalenciaolivar.com/blog/coming-soon/)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left"> ⌨️ Langages et outils</h3>
 
 <h4 align="left">Data Science & AI</h4>
